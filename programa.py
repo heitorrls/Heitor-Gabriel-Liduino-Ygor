@@ -120,3 +120,6 @@ fila.removerPaciente()
 fila.mostrarFila()
 fila.alterarPaciente("Heitor", nova_idade=26, nova_prioridade="P")
 fila.mostrarInvertida()
+fila.adicionarPaciente("Arthura Pianas", 22, "P")
+
+fila.removerPaciente()
