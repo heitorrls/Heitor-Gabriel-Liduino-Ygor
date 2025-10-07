@@ -1,2 +1,4 @@
 # Projeto-01
 Trabalho de PYTHON
+
+Esse projeto foi feito para simular uma fila de pacientes em um consultório usando Python. Cada paciente tem nome, idade e prioridade (P para prioritário e N para normal). Pacientes prioritários entram na frente da fila e os normais vão para o final. O programa permite adicionar pacientes, remover o primeiro da fila, alterar dados de um paciente e mostrar a fila normal ou invertida. Também mostra a memória usada antes e depois de cada operação. Foram criadas duas classes: uma para representar o paciente e outra para controlar a fila e as ações. No final do código já existe uma lista com dez pacientes para testar. Para rodar, basta abrir o arquivo no VS Code ou terminal e executar com Python.
